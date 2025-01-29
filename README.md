@@ -8,7 +8,7 @@
 </head>
 <body>
     <header>
-        <h1>Osaaminen</h1>
+        <h2>Osaaminen</h2>
         <p>Viestintä & Markkinointi</p>
     </header>
     <section>
